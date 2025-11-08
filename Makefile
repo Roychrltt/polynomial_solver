@@ -1,4 +1,4 @@
-NAME = computor
+NAME = polynomial_solver
 
 CPP = g++ -std=c++20
 
